@@ -1,0 +1,73 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/tempost/Source/rust/playground/skill_challenge_cltool/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+0	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	o	array:local
+0	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	o	array:local
+17598535894874457435	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	o	object:outputs
+2797684049618456168	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	o	object:outputs
+8478739912462367707	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	o	object:outputs
+931469667778813386	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	o	object:outputs
+9666181950136269162	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	o	object:outputs
+CheckDepInfo	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	o	object:local.0
+code	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	n	object:outputs.17598535894874457435
+code	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	n	object:outputs.2797684049618456168
+code	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	n	object:outputs.8478739912462367707
+code	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	n	object:outputs.931469667778813386
+code	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	n	object:outputs.9666181950136269162
+compile_kind	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	n
+compile_kind	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	n
+config	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	n
+config	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	n
+dep_info	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	s	object:local.0.CheckDepInfo
+deps	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	a
+deps	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	a
+features	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	s
+features	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	s
+local	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	a
+local	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	a
+main	src/main.rs	/^fn main() {$/;"	f
+metadata	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	n
+metadata	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	n
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	o
+path	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	n
+path	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	n
+profile	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	n
+profile	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	n
+rustc	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	n
+rustc	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	n
+rustflags	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	a
+rustflags	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	a
+status	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.17598535894874457435
+status	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.2797684049618456168
+status	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.8478739912462367707
+status	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.931469667778813386
+status	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.9666181950136269162
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.17598535894874457435
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.2797684049618456168
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.8478739912462367707
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.931469667778813386
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.9666181950136269162
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.17598535894874457435
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.2797684049618456168
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.8478739912462367707
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.931469667778813386
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	s	object:outputs.9666181950136269162
+success	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	b	object:outputs.17598535894874457435
+success	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	b	object:outputs.2797684049618456168
+success	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	b	object:outputs.8478739912462367707
+success	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	b	object:outputs.931469667778813386
+success	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	b	object:outputs.9666181950136269162
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":418083429935819964,"outputs":{"17598535894874457435":{"success":true,"statu/;"	o
+target	target/debug/.fingerprint/skill_challenge_cltool-2566e1ee16290222/test-bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":10216330754/;"	n
+target	target/debug/.fingerprint/skill_challenge_cltool-411eb0d8f574afe0/bin-skill_challenge_cltool.json	/^{"rustc":17328278524431220776,"features":"[]","target":5290517506871236418,"profile":73091416868/;"	n
