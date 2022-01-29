@@ -1,3 +1,6 @@
+#![allow(dead_code)]
+#![allow(unused_variables)]
+
 type ChildNode<T> = Option<Box<BTNode<T>>>;
 
 // our BTree will either be None(Empty) or Some BTNode
@@ -92,7 +95,6 @@ fn id_node(value: i32) -> BTNode<i32> {
         right: None
     }
 }
-
 
 #[cfg(test)]
 mod test {

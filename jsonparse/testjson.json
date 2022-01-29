@@ -1,0 +1,12 @@
+{
+  "name": "John Doe",
+  "age" : 43,
+  "address": {
+    "street": "1234 address",
+    "city"  : "Houston"
+  },
+  "phones": [
+    "123-456-7890",
+    "867-555-3333"
+  ]
+}
